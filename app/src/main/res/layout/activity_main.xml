@@ -13,6 +13,7 @@
         android:layout_height="wrap_content"
         android:hint="Enter number one"
         android:id="@+id/num1"
+        android:gravity="center"
         android:layout_gravity="center"
         android:layout_marginTop="40dp"
 
@@ -25,6 +26,7 @@
         android:layout_height="wrap_content"
         android:hint="Enter number two"
         android:id="@+id/num2"
+        android:gravity="center"
         android:layout_gravity="center"
         android:layout_marginTop="20dp"
 
